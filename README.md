@@ -1,17 +1,37 @@
-# lenpay
+# 📱 Lenpay
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/logo.png" width="150" alt="Lenpay Logo">
+  <br>
+  <b>تطبيق دردشة ومعاملات مالية متكامل مبني باستخدام Flutter و Firebase</b>
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 نظرة عامة
+**Lenpay** هو تطبيق موبايل متطور يهدف لتسهيل التواصل والعمليات المالية في آن واحد. يتميز التطبيق بواجهة مستخدم عصرية (Dark Mode) وأداء سلس بفضل تقنيات Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ المميزات الرئيسية
+* **نظام توثيق آمن:** تسجيل دخول عبر Firebase (Email/Password).
+* **دردشة فورية:** محادثات لحظية Real-time Chat باستخدام Cloud Firestore.
+* **تصميم عصري:** واجهات Minimalist تدعم الـ Dark Mode وتجربة مستخدم مريحة.
+* **إدارة الحالة:** معالجة البيانات بكفاءة لضمان سرعة استجابة التطبيق.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 لقطات من التطبيق (Screenshots)
+| الشاشة الرئيسية | شاشة الدردشة | الملف الشخصي |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="200"> | <img src="screenshots/chat.png" width="200"> | <img src="screenshots/profile.png" width="200"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> **ملاحظة:** تأكد من رفع الصور في مجلد باسم `screenshots` في مشروعك وتغيير الروابط أعلاه.
+
+## 🛠 التقنيات المستخدمة
+* **Framework:** [Flutter](https://flutter.dev)
+* **Backend:** [Firebase](https://firebase.google.com) (Auth, Firestore)
+* **Language:** Dart
+
+## ⚙️ كيفية التشغيل
+لتحميل وتشغيل المشروع محلياً، اتبع الخطوات التالية:
+
+1. قم بعمل **Clone** للمستودع:
+   ```bash
+   git clone [https://github.com/YourUsername/lenpay.git](https://github.com/YourUsername/lenpay.git)
