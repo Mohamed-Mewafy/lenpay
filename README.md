@@ -18,11 +18,10 @@
 * **إدارة الحالة:** معالجة البيانات بكفاءة لضمان سرعة استجابة التطبيق.
 
 ## 📸 لقطات من التطبيق (Screenshots)
-| الشاشة الرئيسية | شاشة الدردشة | الملف الشخصي |
-| :---: | :---: | :---: |
-| <img src="lib/ui/screenshots/screen1.png" width="200"> | <img src="lib/ui/screenshots/screen2.png" width="200"> | <img src="lib/ui/screenshots/screen3.png" width="200"> |<img src="ib/ui/screenshots/screen4.png" width="200"> | <img src="ib/ui/screenshots/screen5.png" width="200">
 
-> **ملاحظة:** تأكد من رفع الصور في مجلد باسم `screenshots` في مشروعك وتغيير الروابط أعلاه.
+| الشاشة الرئيسية | شاشة الدردشة | الملف الشخصي | شاشة الإعدادات |
+| :---: | :---: | :---: | :---: |
+| <img src="lib/ui/screenshots/screen1.png" width="200"> | <img src="lib/ui/screenshots/screen2.png" width="200"> | <img src="lib/ui/screenshots/screen3.png" width="200"> | <img src="lib/ui/screenshots/screen4.png" width="200"> |
 
 ## 🛠 التقنيات المستخدمة
 * **Framework:** [Flutter](https://flutter.dev)
@@ -34,4 +33,4 @@
 
 1. قم بعمل **Clone** للمستودع:
    ```bash
-   https://github.com/Mohamed-Mewafy/lenpay.git
+   git clone [https://github.com/Mohamed-Mewafy/lenpay.git](https://github.com/Mohamed-Mewafy/lenpay.git)
