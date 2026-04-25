@@ -49,6 +49,6 @@ To get a local copy up and running, follow these steps:
 ---
 
 ## 👨‍💻 Developer
-**TheDevMd** *Building modern mobile experiences and high-performance web applications.*
+**Mohamed Mewafy** *Building modern mobile experiences and high-performance web applications.*
 
 ---
