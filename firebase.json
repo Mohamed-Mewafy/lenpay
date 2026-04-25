@@ -1,0 +1,62 @@
+{
+    "functions": [
+        {
+            "source": "functions",
+            "codebase": "default"
+        }
+    ],
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "lenpay-f7835",
+                    "appId": "1:1045680177635:android:3247f849a0addd57e060d6",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "lenpay-f7835",
+                    "appId": "1:1045680177635:ios:29d9747288ea5f03e060d6",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "macos": {
+                "default": {
+                    "projectId": "lenpay-f7835",
+                    "appId": "1:1045680177635:ios:29d9747288ea5f03e060d6",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "macos/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "lenpay-f7835",
+                    "configurations": {
+                        "android": "1:1045680177635:android:3247f849a0addd57e060d6",
+                        "ios": "1:1045680177635:ios:29d9747288ea5f03e060d6",
+                        "macos": "1:1045680177635:ios:29d9747288ea5f03e060d6",
+                        "web": "1:1045680177635:web:6fc695bcddb847ebe060d6",
+                        "windows": "1:1045680177635:web:1818044e5536eb35e060d6"
+                    }
+                }
+            }
+        }
+    },
+    "emulators": {
+        "functions": {
+            "port": 5001
+        },
+        "firestore": {
+            "port": 8081
+        },
+        "auth": {
+            "port": 9099
+        },
+        "ui": {
+            "enabled": true,
+            "port": 4001
+        }
+    }
+}

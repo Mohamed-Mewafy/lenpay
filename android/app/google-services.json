@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045680177635",
+    "project_id": "lenpay-f7835",
+    "storage_bucket": "lenpay-f7835.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045680177635:android:3247f849a0addd57e060d6",
+        "android_client_info": {
+          "package_name": "com.example.lenpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKB0tF4rxDy977PoPpbfGcFBYyHvcfGFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
