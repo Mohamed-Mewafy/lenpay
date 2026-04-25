@@ -19,7 +19,7 @@
 
 ## 📸 لقطات من التطبيق (Screenshots)
 
-| الشاشة الرئيسية | شاشة الدردشة | الملف الشخصي | شاشة الإعدادات |
+ 
 | :---: | :---: | :---: | :---: |
 | <img src="lib/ui/screenshots/screen1.png" width="200"> | <img src="lib/ui/screenshots/screen2.png" width="200"> | <img src="lib/ui/screenshots/screen3.png" width="200"> | <img src="lib/ui/screenshots/screen4.png" width="200"> |
 
