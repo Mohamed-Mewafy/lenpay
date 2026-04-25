@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mohamed-Mewafy/lenpay.git](https://github.com/Mohamed-Mewafy/lenpay.git)
+    git clone https://github.com/Mohamed-Mewafy/lenpay.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
