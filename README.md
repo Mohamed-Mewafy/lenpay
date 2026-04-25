@@ -20,7 +20,7 @@
 ## 📸 لقطات من التطبيق (Screenshots)
 | الشاشة الرئيسية | شاشة الدردشة | الملف الشخصي |
 | :---: | :---: | :---: |
-| <img src="lib/ui/screenshots/screen1.png" width="200"> | <img src="screenshots/chat.png" width="200"> | <img src="screenshots/profile.png" width="200"> |
+| <img src="lib/ui/screenshots/screen1.png" width="200"> | <img src="lib/ui/screenshots/screen2.png" width="200"> | <img src="lib/ui/screenshots/screen3.png" width="200"> |<img src="ib/ui/screenshots/screen4.png" width="200"> | <img src="ib/ui/screenshots/screen5.png" width="200">
 
 > **ملاحظة:** تأكد من رفع الصور في مجلد باسم `screenshots` في مشروعك وتغيير الروابط أعلاه.
 
