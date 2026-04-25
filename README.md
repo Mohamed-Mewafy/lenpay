@@ -34,4 +34,4 @@
 
 1. قم بعمل **Clone** للمستودع:
    ```bash
-   git clone [https://github.com/YourUsername/lenpay.git](https://github.com/YourUsername/lenpay.git)
+   https://github.com/Mohamed-Mewafy/lenpay.git
